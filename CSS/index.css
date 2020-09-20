@@ -99,6 +99,13 @@ nav ul li a{
 button:active{
     transform:scale(1.1);
 }
+.name{
+    padding-top:2px;
+    color:rgb(3, 39, 68);
+}
+.namej{
+    color:rgb(16, 166, 204);
+}
 /* about section*/
 .about-container{
     width:80%;
