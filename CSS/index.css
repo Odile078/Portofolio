@@ -325,3 +325,29 @@ button:active{
     background-color: #48dbfb;
     color: #fff;
   }
+  /* footer*/
+  footer{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center ;
+    position:relative;
+
+}
+footer p{
+    font-family: calibri;
+}
+footer p:nth-child(1){
+    font-size: 30px;
+    font-weight: bold;
+    columns: #191919;
+    line-height:10px ;
+
+}
+footer p:nth-child(2){
+    font-size:16px;
+    color:#7e7d7d;
+    width:600px;
+    text-align: center;
+}
