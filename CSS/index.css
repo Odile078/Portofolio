@@ -226,3 +226,32 @@ button:active{
     border: none;
     outline: none;
     border-radius:5px;
+}
+/*   */
+.contact-me{
+    width:100%;
+    height:280px;
+    background-image:url("../Images/servicebackground.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contact-me p{
+    color:#FFFFFf;
+    font-size:30px;
+    font-family:calibri;
+    font-weight:bold;
+    border-bottom:2px solid #FFFFFf; 
+}
+.contact-me button{
+    width:200px;
+    height: 40px;
+    background-color:#FFFFFF;
+    outline: none;
+    border:none;
+    font-size:14px;
+    font-weight: bold;
+}
