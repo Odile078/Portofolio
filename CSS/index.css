@@ -39,6 +39,12 @@ nav ul li a{
     font-size:15px;
     font-weight:700;
 }
+nav ul li a:hover{
+    background-color: black;
+    color:white;
+    padding: 5px;
+    
+}
 .logo{
     font-family:RoadTest;
     color:#000000;
